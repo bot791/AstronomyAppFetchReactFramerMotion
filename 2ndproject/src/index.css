@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Orbitron:wght@900&family=Rubik+80s+Fade&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Rubik+80s+Fade&display=swap");
+
+* {
+  font-family: 'Orbitron', sans-serif;}
+.container {
+  background-color: rgb(128, 14, 148);
+}
+.title h1 {
+  color: aliceblue;
+  width: fit-content;
+  margin: auto;
+  padding: 15px;
+  text-shadow: 2px 2px 4px #3e839e;
+}
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height:auto;
+  padding:10px
+}
+.picture h6 {
+  text-shadow: 2px 2px 4px #000000;
+  color: rgb(245, 232, 94);
+  font-family: Arial, Helvetica, sans-serif;
+
+  text-align: center;
+}
+.description {
+  color: rgb(255, 255, 255);
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  text-shadow: 2px 2px 4px #000000;
+}
+.description p {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 20px;
+}
+.container h6{
+  color: rgb(253, 253, 196);
+  text-align: center;
+  text-shadow: 2px 2px 4px #074f57;
+}
+.picture img{
+  width:100%;
+  
+}
