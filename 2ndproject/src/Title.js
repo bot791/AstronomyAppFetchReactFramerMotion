@@ -1,7 +1,10 @@
+import { motion } from "framer-motion";
 const Title = () => {
   return (
     <div className="title">
-      <h1>NASA AStronomy Picture Of The Day</h1>
+      <motion.h1 initial={{y:-30}}animate={{y:10}}>
+        NASA Astronomy Picture Of The Day
+      </motion.h1>
     </div>
   );
 };
