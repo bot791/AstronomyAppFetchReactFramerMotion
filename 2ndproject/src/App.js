@@ -15,7 +15,7 @@ function App() {
       <Title />
       <Picture data={data} />
       <Description data={data} />
-      <h6>This website is made with love by KAJAL BISWAS with the help of NASA open API</h6>
+      <h6>This website is made by KAJAL BISWAS with the help of NASA open API</h6>
     </div>
   );
 }
